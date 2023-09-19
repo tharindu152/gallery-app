@@ -6,7 +6,7 @@
 
 ### About The Project
 
-This project was created using Java, Java FX, Java IO, Java FX components and event listers.<br>
+This project was created using Java, Java FX, Java IO, Java FX components and event listeners.<br>
 
 File Chooser<br>
 <img width="500" src="https://github.com/tharindu152/gallery-app/blob/master/src/main/resources/asset.img/Directory%20Selection.png"><br>
