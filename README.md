@@ -8,11 +8,11 @@
 
 This project was created using Java, Java FX, Java IO, Java FX components and event listers were used.<br>
 
-File Chooser
-<img width="500" src="https://github.com/tharindu152/drag-and-drop-app/blob/master/src/main/resources/img/Drag%20and%20Drop%20app%20screenshot.png">
-
-Interface
-<img width="500" src="https://github.com/tharindu152/drag-and-drop-app/blob/master/src/main/resources/img/Drag%20and%20Drop%20app%20screenshot.png">
+File Chooser<br>
+<img width="500" src="https://github.com/tharindu152/drag-and-drop-app/blob/master/src/main/resources/img/Drag%20and%20Drop%20app%20screenshot.png"><br>
+<br>
+Interface<br>
+<img width="500" src="https://github.com/tharindu152/drag-and-drop-app/blob/master/src/main/resources/img/Drag%20and%20Drop%20app%20screenshot.png"><br>
 
 ### License
 
